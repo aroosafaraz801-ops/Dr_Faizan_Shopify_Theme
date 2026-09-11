@@ -1,0 +1,71 @@
+{
+  "sections": {
+    "hero_doctor": {
+      "type": "hero-doctor",
+      "settings": {
+        "doctor_name": "Dr. Faizan Shabbir Rana",
+        "degrees": "MBBS, MS Urology (King Edward Medical University)",
+        "designation": "Head of Urology Department, DHQ Hospital Bhakkar",
+        "urdu_name": "ڈاکٹر فیضان شبیر رانا",
+        "urdu_designation": "کنسلٹنٹ یورالوجسٹ، اینڈوسکوپک اور لیپروسکوپک سرجن • ڈی ایچ کیو ہسپتال بھکر",
+        "whatsapp_number": "923127064602"
+      }
+    },
+    "sehat_card_banner": {
+      "type": "sehat-card-banner",
+      "settings": {
+        "title_en": "Free Medical Treatment Available on National Sehat Card",
+        "title_ur": "صحت کارڈ پر مفت علاج اور آپریشن کی سہولت موجود ہے",
+        "whatsapp_number": "923127064602"
+      }
+    },
+    "services_grid": {
+      "type": "services-grid",
+      "settings": {
+        "tagline": "Specialized Clinical Excellence",
+        "heading": "Advanced Urology & Endoscopic Procedures",
+        "urdu_heading": "بذریعہ کیمرہ و لیزر کیے جانے والے جدید آپریشنز",
+        "description": "State-of-the-art minimally invasive surgeries performed with latest international endoscopic & laser equipment for rapid, painless recovery."
+      }
+    },
+    "pcnl_specialty": {
+      "type": "pcnl-specialty",
+      "settings": {
+        "badge": "Breakthrough Endourology Technology",
+        "title": "PCNL: Keyhole Kidney Stone Camera Surgery",
+        "urdu_headline": "ایک جدید طریقہ علاج جس کے ذریعے بغیر چیرا کے گردے کی پتھری بذریعہ کیمرہ محفوظ طریقے سے نکالی جاتی ہے"
+      }
+    },
+    "prostate_cancer_care": {
+      "type": "prostate-cancer-care",
+      "settings": {
+        "title": "Early Prostate Cancer Diagnostics",
+        "urdu_title": "پروسٹیٹ کینسر کی شرح اور بروقت تشخیص"
+      }
+    },
+    "clinic_locations": {
+      "type": "clinic-locations",
+      "settings": {
+        "tagline": "Consultation Schedules & Centers",
+        "title": "Hospital Locations & Weekly Timings",
+        "urdu_title": "ہسپتالوں کے پتے اور معائنے کے مخصوص اوقات"
+      }
+    },
+    "appointment_booking": {
+      "type": "appointment-booking",
+      "settings": {
+        "heading": "Book Your Clinical Consultation",
+        "urdu_heading": "ڈاکٹر فیضان شبیر رانا سے معائنے اور آپریشن کے لیے وقت حاصل کریں"
+      }
+    }
+  },
+  "order": [
+    "hero_doctor",
+    "sehat_card_banner",
+    "services_grid",
+    "pcnl_specialty",
+    "prostate_cancer_care",
+    "clinic_locations",
+    "appointment_booking"
+  ]
+}
